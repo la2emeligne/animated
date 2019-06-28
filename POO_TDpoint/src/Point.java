@@ -1,6 +1,8 @@
 
 public class Point {
 	
+	//commentaire
+	
 	// abscisse et ordonnée
 	private double X;
 	private double Y;
